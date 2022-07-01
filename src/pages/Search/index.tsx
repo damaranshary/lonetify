@@ -80,7 +80,7 @@ const Search = () => {
                 <Tracks
                     mergedTracks={mergedTracksSearch}
                     handleSelectTrack={handleSelectTrack} />
-            ) : (<p> No tracks found </p>)};
+            ) : (<p> No tracks found xD </p>)};
         </div>
     )
 }
